@@ -1,5 +1,6 @@
 # VerticalTextView
 一款显示垂直文字的View
+[![](https://jitpack.io/v/xunyang-yuhui/VerticalTextView.svg)](https://jitpack.io/#xunyang-yuhui/VerticalTextView)
 
 效果展示
 
