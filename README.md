@@ -39,3 +39,4 @@
   view_vertical.setTextSize(20)
   
 ```
+
