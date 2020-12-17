@@ -44,6 +44,8 @@ public class VerticalTextView extends View {
 
         init();
         findMaxTextWidth();
+
+        array.recycle();
     }
 
     private void init() {
